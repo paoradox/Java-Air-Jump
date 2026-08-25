@@ -3,7 +3,7 @@
 [![Built with](https://img.shields.io/badge/built_with-Java-02aaff?style=for-the-badge&logo=java)](https://www.java.com/)
 [![Platform](https://img.shields.io/badge/platform-Android-02aaff?style=for-the-badge&logo=android)](https://www.android.com/)
 
-**Air Jump** is a simple, engaging Flappy Bird-style clone game developed in Java for the Android platform. The project includes the complete source code and a ready-to-install APK file.
+**Air Jump** is a simple, engaging Flappy Bird-style clone game developed in Java for the Android platform. The project includes a ready-to-install APK file.
 
 ---
 
@@ -46,7 +46,7 @@ Java-Air-Jump/
 
 ### Prerequisites
 - An Android device (version 4.0 or higher)
-- (Optional) Android Studio for development
+- (Optional) Android Studio for reverse-engineering
 
 ### Installation
 1. **Download the APK file** from this repository
@@ -55,7 +55,7 @@ Java-Air-Jump/
 4. **Launch the game** from your app drawer
 
 ### Development Setup
-If you have access to the source code:
+If you have access to a decompiler:
 1. Open the project in **Android Studio**
 2. Build and run on an emulator or physical device
 3. Make changes to the Java source files and resources
