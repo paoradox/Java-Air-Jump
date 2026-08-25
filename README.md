@@ -1,4 +1,4 @@
-# Java-Air-Jump — Air Jump: Flappy Bird Clone Game App
+# Java-Air-Jump
 
 [![Built with](https://img.shields.io/badge/built_with-Java-02aaff?style=for-the-badge&logo=java)](https://www.java.com/)
 [![Platform](https://img.shields.io/badge/platform-Android-02aaff?style=for-the-badge&logo=android)](https://www.android.com/)
